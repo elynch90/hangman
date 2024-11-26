@@ -1,2 +1,2 @@
 # hangman
-The classic game in your browser via python :^)
+The classic game in your shell via python :^)
